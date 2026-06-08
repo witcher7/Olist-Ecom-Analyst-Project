@@ -1,0 +1,33 @@
+# LAst Mile Delivery Intelligence Platform
+
+Dataset --> olist
+
+Why are deliveries delayed and costing us money 
+
+KPIs 
+On time delivery %
+Late Delivery %
+Average Delivery days
+Worst Delivery Regions
+Revenue Lost Due to Delays
+
+|
+Dataset
+download
+---profiling
+---cleaning
+---conversion
+|
+|
+parquet --> S3 ( data lake --BRONZE , SILVER , GOLD)
+|
+|
+GOLD --> RDS
+         |
+        ODBC
+        "POWERBI DASHBOARD" 
+
+
+DATA ANALYST COURSE
+---> NAUKRI AND LINKEDIN 
+---> LAST CLASS 

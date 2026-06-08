@@ -1,0 +1,36 @@
+## PROJECT 3 --> SAAS Product Analytics &  USER Funnel Analysis
+
+software as a service 
+google analytics sample data set (ga4)
+
+| 
+download the dataset
+|
+- data cleaning and transformation
+python scripts 
+--> data profiling
+--> cleaning
+--> convert to parquet 
+|
+|
+Upload to s3
+|
+|
+Connect RDS to upload data to RDS
+|
+scripts to upload data to RDS
+|
+SQL queries to analyze data in RDS USING VIEWS
+
+Total users , Traffic sources , CPA (cost per aquisation )
+Purchases , Conversion rates , user retention(ki mera customer mere saath tika hua hai ya nahi)
+|
+ODBC connection to power bi
+|
+Power BI DASHBOARD
+
+Daily Active User (DAU)
+Monthly Active User (MAU)
+User Retention Rate
+Average Revenue Per User (ARPU)
+Conversion Rate
